@@ -3,4 +3,13 @@
 
 <head>
 <center>
-<p align="center"> <img src="(https://www.skylineuniversity.ac.ae/blog/images/2021/01/08/isvsit.jpg)" height="100" ; width="500"> </p>
+<p align="center"> <img src="https://www.skylineuniversity.ac.ae/blog/images/2021/01/08/isvsit.jpg" height="200" ; width="500"> </p>
+
+💻
+An information technology system (IT system) is generally an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users, and an IT project usually refers to the commissioning and implementation of an IT system.
+###
+👩‍🏫
+Lecturer: Dr. Aryati binti Bakri
+###
+🏷️
+Section | Session: 02 | 2024-25
