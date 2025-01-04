@@ -3,7 +3,7 @@
 
 <head>
 <center>
-<p align="center"> <img src="https://github.com/user-attachments/assets/65550dd1-ad1e-4153-ae57-336276cc8556" height="200" ; width="500"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/65550dd1-ad1e-4153-ae57-336276cc8556" height="400" ; width="400"> </p>
 
 - ⚖️ Digital logic is mainly used for data(must be digital information) representation, manipulation and processing of using discrete signals or binary digits (bits).
 - 🔎 It can perform logical operations, data retrieval or storing and data transformation by analyzing logical circuit design.
