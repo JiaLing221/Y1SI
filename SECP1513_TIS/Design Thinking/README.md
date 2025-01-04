@@ -13,3 +13,9 @@ Lecturer: Dr. Aryati binti Bakri
 ###
 🏷️
 Section | Session: 02 | 2024-25
+
+-----------
+## 📜 Coursework
+💫 [Assignment 1: Industry Talk]() <br>
+💫 [Assignment 2: UTM Digital]() <br>
+💫 [Assignment 3: Academic Report]() <br>
