@@ -16,6 +16,9 @@ Section | Session: 02 | 2024-25
 
 -----------
 ## 📜 Coursework
+💫 [PC Assemble]() <br>
 💫 [Assignment 1: Poster UTM Digital]() <br>
 💫 [Assignment 2: Video UTM Digital]() <br>
 💫 [Assignment 3: Academic Report]() <br>
+💫 [Assignment 4: ]() <br>
+💫 [Design Thinking]() <br>
