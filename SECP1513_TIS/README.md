@@ -16,9 +16,9 @@ Section | Session: 02 | 2024-25
 
 -----------
 ## 📜 Coursework
-💫 [PC Assemble]() <br>
-💫 [Assignment 1: Poster UTM Digital]() <br>
-💫 [Assignment 2: Video UTM Digital]() <br>
-💫 [Assignment 3: Academic Report]() <br>
+💫 [PC Assemble](https://github.com/JiaLing221/Y1SI/tree/main/SECP1513_TIS/PC%20Assemble) <br>
+💫 [Assignment 1: Poster UTM Digital](https://github.com/JiaLing221/Y1SI/tree/main/SECP1513_TIS/Assignment-Industry/Assignment%201-Poster) <br>
+💫 [Assignment 2: Video UTM Digital](https://github.com/JiaLing221/Y1SI/tree/main/SECP1513_TIS/Assignment-Industry/Assignment%202-Video) <br>
+💫 [Assignment 3: Academic Report](https://github.com/JiaLing221/Y1SI/tree/main/SECP1513_TIS/Assignment-Industry/Assignment%203-Academic%20Report) <br>
 💫 [Assignment 4: ]() <br>
-💫 [Design Thinking]() <br>
+💫 [Design Thinking](https://github.com/JiaLing221/Y1SI/tree/main/SECP1513_TIS/Design%20Thinking) <br>
