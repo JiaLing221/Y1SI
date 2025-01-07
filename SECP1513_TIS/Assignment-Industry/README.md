@@ -24,4 +24,3 @@ Visiting UTM Digital was an enlightening experience that offered a deeper apprec
 As a Computer Science student focusing on Data Engineering, the visit was particularly inspiring. Seeing practical implementations of data-driven technologies reinforced my passion for pursuing a career in this field. It also broadened my understanding of how data engineering can have real-world applications beyond theoretical concepts.
 
 Moving forward, I aim to apply some of the insights gained during this visit to my academic projects. Whether it's designing more efficient data pipelines or focusing on user-centered data visualization, the principles observed at UTM Digital will serve as a guiding framework. Additionally, I plan to explore internship or collaboration opportunities with UTM Digital to deepen my practical knowledge and skills.
-
